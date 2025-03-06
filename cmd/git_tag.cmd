@@ -19,4 +19,3 @@ call :start
   git tag "%_tag%" %_commit%
   git push origin "%_tag%"
   pause
-  exit
